@@ -11,7 +11,7 @@
         <License>BSD</License>
         <Summary>A concurrent garbage collected and typesafe programming language</Summary>
         <Description>A concurrent garbage collected and typesafe programming language</Description>
-        <Archive sha1sum="f365aed8183e487a48a66ace7bf36e5974dffbb3" type="targz">https://go.googlecode.com/files/go1.1.1.src.tar.gz</Archive>
+        <Archive sha1sum="3ce0ac4db434fc1546fec074841ff40dc48c1167" type="targz">https://storage.googleapis.com/golang/go1.2.2.src.tar.gz</Archive>
         <BuildDependencies>
             <Dependency>emacs</Dependency>
             <Dependency>mercurial</Dependency>
