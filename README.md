@@ -7,4 +7,4 @@ pisi packages
  
  
  
-sudo pisi ur && sudo pisi it -c system.devel -y && sudo pisi it git conky chromium-browser zekr  -y && sudo pisi up && sudo pisi rdb -y
+sudo pisi ur && sudo pisi it -c system.devel -y && sudo pisi it git conky chromium-browser zekr skype gimp -y && sudo pisi up && sudo pisi rdb -y
